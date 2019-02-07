@@ -1,2 +1,3 @@
 # hello-world
-test fior github
+test for github
+my english is bad but it is ok!° :)
